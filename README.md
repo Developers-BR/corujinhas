@@ -12,9 +12,9 @@
 - Operadores relacionais (igual, diferente e etc)
 - Condicionais (teoria)
 - if, Switch e operador ternário 
-- [Loops (teoria)](/fundamentosDeProgramacao\loops\README.md)
-- [While e DoWhile](/fundamentosDeProgramacao\loops\README.md#while)
-- [For e ForEach](/fundamentosDeProgramacao\loops\README.md#for)
+- [Loops (teoria)](/fundamentosDeProgramacao/loops/README.md)
+- [While e DoWhile](/fundamentosDeProgramacao/loops/README.md#while)
+- [For e ForEach](/fundamentosDeProgramacao/loops/README.md#for)
 - Dictionary
 - List
 - Queue
