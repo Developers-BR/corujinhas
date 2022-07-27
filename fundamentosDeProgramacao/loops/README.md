@@ -6,6 +6,34 @@
 
 Um loop é uma maneira de executar um trecho código repetidas vezes. É composto te uma condição e código que será executado.
 
+## Quando usar
+Usamos loops quando precisamos fazer a mesma coisa várias vezes. 
+
+Imagine que temos uma cafeteria, 3 programadores pediram café. Com isso temo uma lista de pedidos.
+Para cada café sendo preparado, seu código precisa escrever na tela que o pedido está sendo executado, e ao final precisamos saber o total de cafés servidos. 
+
+Como seria esse código?
+
+```
+int cafesPreparados = 0;
+
+// Preparando o café
+cafesPreparados++;
+Console.WriteLine($"Preparando o 1° café");
+
+cafesPreparados++;
+Console.WriteLine($"Preparando o 2° café");
+
+cafesPreparados++;
+Console.WriteLine($"Preparando o 3° café");
+
+Console.WriteLine($"Total de devs felizes: {cafesPreparados}");
+```
+
+Se tivermos apenas 3 emails não é uma tarefa difícil, certo?
+
+Mas imagine que agora nossa cafeteria aceita pedidos online, e recebeu 100 pedidos. Como fazer isso?
+
 ### Código
 Qualquer tipo de código pode ser executado em um loop, não há restrições!
 Entretanto, existem certos tipos de variáveis que são usadas para ajudar a controlar o que está acontecendo  durante as repetições. Essa variável normalmente é chamada de **contador**.
