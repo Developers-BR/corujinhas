@@ -18,6 +18,10 @@ As condições são usadas para verificar quantas vezes o trecho de código ser�
 - Um número especíco de vezes
 - O número de elementos em uma coleção
 
+### Diagrama
+O loop é representado por um circuito fechado, que enquanto a condição não for satisfeita se repete.
+
+![image](_resources/while.png)
 
 # Tipos de loops
 
