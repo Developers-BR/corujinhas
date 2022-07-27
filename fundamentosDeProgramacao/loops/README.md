@@ -4,8 +4,6 @@
 
 ## O que é um laço ou loop?
 
-Loop é uma maneira de executar um trecho código repetidas vezes.
-
 Um loop é uma maneira de executar um trecho código repetidas vezes. É composto te uma condição e código que será executado.
 
 ### Código
